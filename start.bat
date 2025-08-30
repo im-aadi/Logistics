@@ -1,0 +1,9 @@
+@echo off
+echo Starting Logistics Management System...
+echo.
+echo Installing dependencies...
+npm run install-all
+echo.
+echo Starting the system...
+npm run dev
+pause
