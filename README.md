@@ -11,7 +11,7 @@ A comprehensive logistics management system built with React frontend and Node.j
 - **Real-time Tracking**: Track shipments in real-time
 - **Reporting & Analytics**: Generate reports and analyze logistics data
 - **User Authentication**: Secure login and role-based access control
-- **Mobile Responsive**: Works on all devices.
+- **Mobile Responsive**: Works on all devices
 
 ## Tech Stack
 
